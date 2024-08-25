@@ -7,6 +7,6 @@ made this for fun, so if you have any reccomendations or tips please lmk! emjoy 
 
 **How to Use:**
 
-**1.** Create a file called "links.txt"
-**2.** Copy and paste each desired album URL (one URL per line)
-**3.** Ensure links.txt, yt-dlp.exe, and ffmpeg.exe are in the same directory
+1. Create a file called "links.txt"
+2. Copy and paste each desired album URL (one URL per line)
+3. Ensure links.txt, yt-dlp.exe, and ffmpeg.exe are in the same directory
